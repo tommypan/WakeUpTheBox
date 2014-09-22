@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+
+	<mission id="1">
+		<item type="draw" x="0" y="0" width="640" height="240" />
+		<item type="wood" x="305" y="332" width="366" height="24" />
+		<item type="wood" x="305" y="384" width="24" height="100" />
+		<item type="box" x="305" y="296" width="95" height="75" />
+		<item type="stone" x="263" y="444">
+			<point x="0" y="0" />
+			<point x="85" y="0" />
+			<point x="85" y="36" />
+			<point x="0" y="36" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+	<mission id="2">
+		<item type="draw" x="0" y="0" width="292" height="135" />
+		<item type="wood" x="445" y="398" width="24" height="100" />
+		<item type="wood" x="445" y="337" width="217" height="24" />
+		<item type="box" x="445" y="288" width="95" height="75" />
+		<item type="stone" x="0" y="135">
+			<point x="0" y="0" />
+			<point x="292" y="168" />
+			<point x="292" y="222" />
+			<point x="0" y="222" />
+			<point x="0" y="0" />
+		</item>
+		<item type="stone" x="400" y="450">
+			<point x="0" y="0" />
+			<point x="94" y="0" />
+			<point x="94" y="33" />
+			<point x="0" y="33" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+
+	<mission id="3">
+		<item type="draw" x="0" y="0" width="400" height="250" />
+		<item type="box" x="527" y="385" width="95" height="75" />
+		<item type="stone" x="0" y="250">
+			<point x="0" y="0" />
+			<point x="400" y="180" />
+			<point x="560" y="180" />
+			<point x="560" y="230" />
+			<point x="0" y="230" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+	<mission id="4">
+		<item type="draw" x="0" y="0" width="230" height="480" />
+		<item type="wood" x="495" y="400" width="285" height="20" />
+		<item type="box" x="562" y="353" width="95" height="75" />
+		<item type="stone" x="520" y="410">
+			<point x="0" y="0" />
+			<point x="105" y="0" />
+			<point x="105" y="70" />
+			<point x="0" y="70" />
+			<point x="0" y="0" />
+		</item>
+		<item type="joint" x="105" y="375" />
+	</mission>
+
+	<mission id="5">
+		<item type="draw" x="0" y="0" width="455" height="200" />
+		<item type="box" x="565" y="295" width="95" height="75" />
+		<item type="stone" x="0" y="200">
+			<point x="0" y="0" />
+			<point x="250" y="90" />
+			<point x="250" y="130" />
+			<point x="300" y="130" />
+			<point x="300" y="280" />
+			<point x="0" y="280" />
+			<point x="0" y="0" />
+		</item>
+		<item type="stone" x="428" y="335">
+			<point x="0" y="0" />
+			<point x="170" y="0" />
+			<point x="170" y="60" />
+			<point x="153" y="73" />
+			<point x="153" y="145" />
+			<point x="45" y="145" />
+			<point x="45" y="73" />
+			<point x="0" y="60" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+	<mission id="6">
+		<item type="draw" x="0" y="0" width="470" height="425" />
+		<item type="box" x="555" y="365" width="95" height="75" />
+		<item type="stone" x="0" y="425">
+			<point x="0" y="0" />
+			<point x="605" y="0" />
+			<point x="605" y="50" />
+			<point x="0" y="50" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+	<mission id="7">
+		<item type="draw" x="0" y="180" width="640" height="300" />
+		<item type="box" x="360" y="65" width="95" height="75" />
+		<item type="boom" x="450" y="400" width="40" height="58" />
+		<item type="jointWood" posX="320" posY="118" x="320" y="118"
+			width="420" height="24" />
+		<item type="stone" x="190" y="445">
+			<point x="0" y="0" />
+			<point x="380" y="0" />
+			<point x="380" y="42" />
+			<point x="0" y="42" />
+			<point x="0" y="0" />
+		</item>
+		<item type="stone" x="490" y="130">
+			<point x="0" y="0" />
+			<point x="43" y="0" />
+			<point x="43" y="56" />
+			<point x="0" y="56" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+
+	<mission id="8">
+		<item type="draw" x="0" y="0" width="200" height="235" />
+		<item type="box" x="290" y="230" width="95" height="75" />
+		<item type="boom" x="35" y="210" width="40" height="58" />
+		<item type="stone" x="200" y="0">
+			<point x="0" y="0" />
+			<point x="210" y="0" />
+			<point x="75" y="160" />
+			<point x="0" y="160" />
+			<point x="0" y="0" />
+		</item>
+		<item type="stone" x="0" y="235">
+			<point x="0" y="0" />
+			<point x="200" y="0" />
+			<point x="200" y="35" />
+			<point x="335" y="35" />
+			<point x="335" y="90" />
+			<point x="416" y="90" />
+			<point x="416" y="150" />
+			<point x="500" y="150" />
+			<point x="500" y="200" />
+			<point x="580" y="200" />
+			<point x="580" y="240" />
+			<point x="0" y="240" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+	<mission id="9">
+		<item type="draw" x="0" y="0" width="215" height="355" />
+		<item type="box" x="563" y="395" width="95" height="75" />
+		<item type="stone" x="20" y="355">
+			<point x="0" y="0" />
+			<point x="200" y="0" />
+			<point x="200" y="125" />
+			<point x="0" y="125" />
+			<point x="0" y="0" />
+		</item>
+		<item type="stone" x="415" y="430">
+			<point x="0" y="0" />
+			<point x="200" y="0" />
+			<point x="200" y="50" />
+			<point x="0" y="50" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+	<mission id="10">
+		<item type="draw" x="0" y="0" width="640" height="270" />
+		<item type="box" x="320" y="315" width="95" height="75" />
+		<item type="stone" x="290" y="0">
+			<point x="0" y="0" />
+			<point x="60" y="0" />
+			<point x="60" y="265" />
+			<point x="0" y="265" />
+			<point x="0" y="0" />
+		</item>
+		<item type="stone" x="290" y="350">
+			<point x="0" y="0" />
+			<point x="55" y="0" />
+			<point x="55" y="130" />
+			<point x="0" y="130" />
+			<point x="0" y="0" />
+		</item>
+		<item type="joint" x="240" y="125" />
+		<item type="joint" x="400" y="125" />
+	</mission>
+
+	<mission id="11">
+		<item type="draw" x="270" y="0" width="370" height="350" />
+		<item type="box" x="72" y="406" width="95" height="75" />
+		<item type="stone" x="0" y="385">
+			<point x="0" y="60" />
+			<point x="270" y="60" />
+			<point x="270" y="0" />
+			<point x="330" y="0" />
+			<point x="330" y="60" />
+			<point x="640" y="60" />
+			<point x="640" y="95" />
+			<point x="0" y="95" />
+			<point x="0" y="60" />
+		</item>
+	</mission>
+
+	<mission id="12">
+		<item type="draw" x="235" y="0" width="405" height="325" />
+		<item type="box" x="170" y="120" width="95" height="75" />
+		<item type="boom" x="132" y="400" width="40" height="58" />
+		<item type="boom" x="590" y="400" width="40" height="58" />
+		
+		<item type="stone" x="170" y="0">
+			<point x="0" y="160" />
+			<point x="0" y="210" />
+			<point x="75" y="210" />
+			<point x="75" y="0" />
+			<point x="48" y="0" />
+			<point x="48" y="160" />
+			<point x="0" y="160" />
+		</item>
+		<item type="stone" x="70" y="325">
+			<point x="0" y="0" />
+			<point x="5" y="0" />
+			<point x="45" y="40" />
+			<point x="0" y="40" />
+			<point x="0" y="0" />
+		</item>
+		<item type="stone" x="140" y="325">
+			<point x="0" y="40" />
+			<point x="40" y="0" />
+			<point x="315" y="0" />
+			<point x="315" y="40" />
+			<point x="0" y="40" />
+		</item>
+		<item type="stone" x="40" y="430">
+			<point x="0" y="0" />
+			<point x="600" y="0" />
+			<point x="600" y="50" />
+			<point x="0" y="50" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+	<mission id="13">
+		<item type="draw" x="0" y="0" width="640" height="480" />
+		<item type="box" x="320" y="248" width="95" height="75" />
+		<item type="stone" x="272" y="285">
+			<point x="0" y="0" />
+			<point x="95" y="0" />
+			<point x="95" y="195" />
+			<point x="0" y="195" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+
+	<mission id="14">
+		<item type="draw" x="0" y="0" width="640" height="480" />
+		<item type="box" x="320" y="248" width="95" height="75" />
+		<item type="stone" x="272" y="285">
+			<point x="0" y="0" />
+			<point x="95" y="0" />
+			<point x="95" y="195" />
+			<point x="0" y="195" />
+			<point x="0" y="0" />
+		</item>
+		<item type="stone" x="220" y="120">
+			<point x="0" y="0" />
+			<point x="220" y="0" />
+			<point x="220" y="40" />
+			<point x="0" y="40" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+	
+	<mission id="15">
+		<item type="draw" x="0" y="0" width="270" height="300" />
+		<item type="box" x="565" y="365" width="95" height="75" />
+		<item type="jointWoodWithMotor" posX="320" posY="320" x="320" y="320"
+			width="240" height="24" />
+		<item type="stone" x="10" y="300">
+			<point x="0" y="0" />
+			<point x="165" y="0" />
+			<point x="165" y="65" />
+			<point x="0" y="65" />
+			<point x="0" y="0" />
+		</item>
+		<item type="stone" x="455" y="405">
+			<point x="0" y="0" />
+			<point x="160" y="0" />
+			<point x="160" y="60" />
+			<point x="0" y="60" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+	<mission id="16">
+		<item type="draw" x="335" y="0" width="305" height="390" />
+		<item type="box" x="80" y="230" width="95" height="75" />
+		<item type="wood" x="86" y="275" width="120" height="20" />
+		<item type="wood" x="79" y="295" width="120" height="20" />
+		<item type="wood" x="88" y="315" width="200" height="20" />
+		<item type="wood" x="85" y="335" width="120" height="20" />
+		<item type="wood" x="78" y="355" width="120" height="20" />
+		<item type="wood" x="83" y="375" width="120" height="20" />
+		<item type="wood" x="87" y="395" width="120" height="20" />
+		<item type="wood" x="82" y="415" width="120" height="20" />
+		
+		<item type="boom" x="155" y="420" width="40" height="58" />
+		<item type="stone" x="285" y="0">
+			<point x="0" y="0" />
+			<point x="50" y="0" />
+			<point x="50" y="390" />
+			<point x="0" y="390" />
+			<point x="0" y="0" />
+		</item>
+		<item type="stone" x="0" y="425">
+			<point x="0" y="0" />
+			<point x="640" y="0" />
+			<point x="640" y="55" />
+			<point x="0" y="55" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+	<mission id="17">
+		<item type="draw" x="0" y="0" width="451" height="426" />
+		<item type="box" x="523" y="383" width="95" height="75" />
+		<item type="stone" x="385" y="155">
+			<point x="0" y="145" />
+			<point x="255" y="0" />
+			<point x="255" y="185" />
+			<point x="65" y="185" />
+			<point x="65" y="270" />
+			<point x="0" y="270" />
+			<point x="0" y="145" />
+		</item>
+
+		<item type="stone" x="0" y="284">
+			<point x="0" y="0" />
+			<point x="252" y="180" />
+			<point x="564" y="180" />
+			<point x="564" y="230" />
+			<point x="0" y="230" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+	<mission id="18">
+		<item type="draw" x="0" y="0" width="375" height="480" />
+		<item type="box" x="543" y="445" width="95" height="75" />
+		<item type="joint" x="80" y="355" />
+		<item type="joint" x="255" y="355" />
+		<item type="stone" x="510" y="443">
+			<point x="0" y="0" />
+			<point x="65" y="0" />
+			<point x="65" y="45" />
+			<point x="0" y="45" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+	<mission id="19">
+		<item type="draw" x="0" y="140" width="640" height="175" />
+		<item type="box" x="200" y="45" width="95" height="75" />
+		<item type="boom" x="220" y="440" width="40" height="58" />
+		<item type="joint" x="330" y="230" />
+		<item type="stone" x="90" y="470">
+			<point x="0" y="0" />
+			<point x="270" y="0" />
+			<point x="270" y="10" />
+			<point x="0" y="10" />
+			<point x="0" y="0" />
+		</item>
+		<item type="stone" x="175" y="90">
+			<point x="0" y="0" />
+			<point x="80" y="0" />
+			<point x="80" y="230" />
+			<point x="0" y="230" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+	<mission id="20">
+		<item type="draw" x="0" y="0" width="320" height="460" />
+		<item type="box" x="555" y="380" width="95" height="75" />
+		<item type="jointWood" posX="210" posY="165" x="207" y="300"
+			width="24" height="307" />
+		<item type="stone" x="0" y="420">
+			<point x="0" y="0" />
+			<point x="200" y="0" />
+			<point x="200" y="40" />
+			<point x="328" y="40" />
+			<point x="510" y="0" />
+			<point x="600" y="0" />
+			<point x="600" y="60" />
+			<point x="0" y="60" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+	<mission id="21">
+		<item type="draw" x="0" y="275" width="640" height="205" />
+		<item type="box" x="160" y="53" width="95" height="75" />
+		<item type="wood" x="160" y="100" width="307" height="20" />
+		<item type="joint" x="370" y="335" />
+		<item type="stone" x="20" y="110">
+			<point x="0" y="0" />
+			<point x="45" y="0" />
+			<point x="45" y="160" />
+			<point x="0" y="160" />
+			<point x="0" y="0" />
+		</item>
+		<item type="stone" x="262" y="110">
+			<point x="0" y="0" />
+			<point x="45" y="0" />
+			<point x="45" y="160" />
+			<point x="0" y="160" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+	<mission id="22">
+		<item type="draw" x="320" y="0" width="415" height="280" />
+		<item type="box" x="545" y="400" width="95" height="75" />
+		<item type="jointWood" posX="300" posY="450" x="300" y="450" width="500" height="20" />
+		<item type="stone" x="0" y="225">
+			<point x="0" y="0" />
+			<point x="50" y="0" />
+			<point x="50" y="255" />
+			<point x="0" y="255" />
+			<point x="0" y="0" />
+		</item>
+		<item type="stone" x="340" y="280">
+			<point x="0" y="0" />
+			<point x="415" y="0" />
+			<point x="415" y="40" />
+			<point x="0" y="40" />
+			<point x="0" y="0" />
+		</item>
+		<item type="stone" x="480" y="460">
+			<point x="0" y="0" />
+			<point x="70" y="0" />
+			<point x="70" y="20" />
+			<point x="0" y="20" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+	<mission id="23">
+		<item type="draw" x="0" y="0" width="640" height="210" />
+		<item type="box" x="317" y="420" width="95" height="75" />
+		<item type="stone" x="235" y="460">
+			<point x="0" y="0" />
+			<point x="175" y="0" />
+			<point x="175" y="20" />
+			<point x="0" y="20" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+	<mission id="24">
+		<item type="draw" x="0" y="0" width="380" height="400" />
+		<item type="box" x="565" y="370" width="95" height="75" />
+		<item type="jointWood" posX="335" posY="425" x="335" y="425"
+			width="245" height="20" />
+		<item type="stone" x="0" y="275">
+			<point x="0" y="0" />
+			<point x="205" y="130" />
+			<point x="185" y="200" />
+			<point x="0" y="200" />
+			<point x="0" y="0" />
+		</item>
+		<item type="stone" x="465" y="415">
+			<point x="0" y="0" />
+			<point x="160" y="0" />
+			<point x="160" y="60" />
+			<point x="0" y="60" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+	<mission id="25">
+		<item type="draw" x="0" y="170" width="250" height="280" />
+		<item type="box" x="543" y="152" width="95" height="75" />
+		<item type="boom" x="40" y="415" width="40" height="58" />
+		<item type="stone" x="0" y="450">
+			<point x="0" y="0" />
+			<point x="250" y="0" />
+			<point x="250" y="30" />
+			<point x="0" y="30" />
+			<point x="0" y="0" />
+		</item>
+		<item type="stone" x="520" y="200">
+			<point x="0" y="0" />
+			<point x="45" y="0" />
+			<point x="45" y="290" />
+			<point x="0" y="290" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+	<mission id="26">
+		<item type="draw" x="0" y="0" width="360" height="205" />
+		<item type="box" x="590" y="120" width="95" height="75" />
+		<item type="circleWithMotor" x="90" y="355" r="80" />
+		<item type="circleWithMotor" x="275" y="310" r="80" />
+		<item type="circleWithMotor" x="460" y="255" r="80" />
+		<item type="stone" x="555" y="165">
+			<point x="0" y="0" />
+			<point x="74" y="0" />
+			<point x="74" y="315" />
+			<point x="0" y="315" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+	<mission id="27">
+		<item type="draw" x="115" y="100" width="525" height="380" />
+		<item type="box" x="66" y="55" width="95" height="75" />
+		<item type="joint" x="300" y="410" />
+		<item type="stone" x="560" y="420">
+			<point x="0" y="0" />
+			<point x="60" y="0" />
+			<point x="60" y="85" />
+			<point x="0" y="85" />
+			<point x="0" y="0" />
+		</item>
+		<item type="stone" x="35" y="100">
+			<point x="0" y="0" />
+			<point x="60" y="0" />
+			<point x="60" y="85" />
+			<point x="0" y="85" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+	<mission id="28">
+		<item type="draw" x="130" y="0" width="375" height="357" />
+		<item type="box" x="190" y="300" width="95" height="75" />
+		<item type="joint" x="350" y="145" />
+		<item type="wood" x="330" y="377" width="400" height="40" />
+		<item type="stone" x="0" y="210">
+			<point x="0" y="0" />
+			<point x="70" y="0" />
+			<point x="70" y="270" />
+			<point x="0" y="270" />
+			<point x="0" y="0" />
+		</item>
+		<item type="stone" x="245" y="395">
+			<point x="0" y="0" />
+			<point x="265" y="0" />
+			<point x="265" y="85" />
+			<point x="0" y="85" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+	<mission id="29">
+		<item type="draw" x="0" y="115" width="640" height="365" />
+		<item type="box" x="325" y="45" width="95" height="75" />
+		<item type="joint" x="80" y="445" />
+		<item type="joint" x="560" y="445" />
+		<item type="stone" x="310" y="90">
+			<point x="0" y="0" />
+			<point x="20" y="0" />
+			<point x="20" y="35" />
+			<point x="0" y="35" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+	<mission id="30">
+		<item type="draw" x="0" y="0" width="640" height="480" />
+		<item type="box" x="287" y="405" width="95" height="75" />
+		<item type="stone" x="168" y="360">
+			<point x="0" y="0" />
+			<point x="70" y="0" />
+			<point x="70" y="45" />
+			<point x="335" y="45" />
+			<point x="335" y="120" />
+			<point x="0" y="120" />
+			<point x="0" y="0" />
+		</item>
+	</mission>
+
+</root>
