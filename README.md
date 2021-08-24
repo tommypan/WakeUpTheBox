@@ -1,4 +1,5 @@
 WakeUpTheBox
 ============
-
-WakeUpTheBox is a physical  funny game based on Web,Android,IOS platform.There is a shortage of places in my project, you can contact my email.
+<video id="video" controls="" preload="none" poster="https://raw.githubusercontent.com/tommypan/WakeUpTheBox/master/wakeup.png">
+      <source id="mp4" src="https://github.com/tommypan/WakeUpTheBox/blob/master/wakeupbox.mp4" type="video/mp4">
+      </video>
